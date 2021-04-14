@@ -1,0 +1,14 @@
+.bodty{
+    text-align: center;
+    background-color: green;
+}
+div{
+    margin-top: 15px;
+}
+.image-section{
+    display: flex;
+    justify-content: center;
+}
+.sectiojn-style{
+    margin-right: 25px;
+}
